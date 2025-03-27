@@ -1,0 +1,44 @@
+# Папки и файлы сборки CMake/VisualStudio
+/build/
+*.VC.db
+*.opensdf
+*.sdf
+*.sln.docstates
+*.suo
+*.user
+*.vcxproj.filters
+*.vcxproj.user
+Debug/
+Release/
+Win32/
+x64/
+*.ilk
+*.pdb
+*.tlog
+*.log
+*.obj
+*.obj.enc
+
+# Исполняемые файлы и библиотеки (если они генерируются сборкой)
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+
+# Папки и файлы IDE/редактора
+.vscode/
+.idea/
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# Локальные копии библиотек (если вы их загружаете вручную при сборке)
+# Например: /libs_downloaded/
+
+# Другой мусор
+*~
+*.swp
+*.swo
