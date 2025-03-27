@@ -28,7 +28,7 @@
 
 ### Запуск программы
 
-1.  Скачайте исполняемый файл [`LDF_TimeSeries_Cutter.exe`](LDF_TimeSeries_Cutter.exe).
+1.  Скачайте исполняемый файл [`LDF_TimeSeries_Cutter.exe`](https://github.com/sargylana108/LDF-TimeSeries-Cutter/releases/tag/v1.0).
 2.  Запустите файл двойным кликом.
 
 ### Порядок работы
