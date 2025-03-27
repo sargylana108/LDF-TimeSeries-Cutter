@@ -15,7 +15,7 @@
 ## Скриншот
 
 <!-- Добавьте сюда скриншот программы -->
-![Screenshot](/assets/screenshot.png)
+![Screenshot](https://github.com/sargylana108/LDF-TimeSeries-Cutter/blob/main/assets/screenshot.PNG)
 
 ## Как использовать (для пользователей)
 
